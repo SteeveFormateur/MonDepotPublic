@@ -3,3 +3,12 @@ Enoncé de l'Exo
 On considère un eleve avec un nom et une note comprise entre 0 et 20.
 On souhaite afficher s'il est admis ou non en fonction de sa note.
 
+
+Rappel des mentions :
+- 0 : Eliminé(e)
+- ]0-8[ : Echec
+- [8-10[ : Rattrapage
+- [10-12[ : Passable
+- [12-14[ : Assez Bien
+- [14-16[ : Bien
+- [16-20] : TB
